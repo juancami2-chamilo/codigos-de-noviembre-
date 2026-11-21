@@ -6,7 +6,7 @@ Codificación variada
 <!-- ====================================== -->
 
 <p align="center">
-  <img src="[URL_DE_TU_BANNER](https://www.youtube.com/@memorice2014)"
+  <img src="https://www.youtube.com/@memorice2014"
        width="100%"
        alt="Banner de presentación">
 </p>
